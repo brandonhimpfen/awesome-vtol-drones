@@ -1,4 +1,4 @@
-# Awesome VTOL Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome VTOL Drones [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -84,11 +84,11 @@ VTOL drones combine the benefits of multirotor and fixed-wing aircraft, offering
 
 ## Related Awesome Lists
 
-- [Awesome Drones](https://github.com/awesomelistsio/awesome-drones)
-- [Awesome UAV Flight Test Planning](https://github.com/awesomelistsio/awesome-uav-flight-test-planning)
-- [Awesome Flight Log Analysis](https://github.com/awesomelistsio/awesome-flight-log-analysis)
-- [Awesome Open-Source Drone Firmware](https://github.com/awesomelistsio/awesome-open-source-drone-firmware)
-- [Awesome UAV Collision Avoidance](https://github.com/awesomelistsio/awesome-uav-collision-avoidance-systems)
+- [Awesome Drones](https://github.com/brandonhimpfen/awesome-drones)
+- [Awesome UAV Flight Test Planning](https://github.com/brandonhimpfen/awesome-uav-flight-test-planning)
+- [Awesome Flight Log Analysis](https://github.com/brandonhimpfen/awesome-flight-log-analysis)
+- [Awesome Open-Source Drone Firmware](https://github.com/brandonhimpfen/awesome-open-source-drone-firmware)
+- [Awesome UAV Collision Avoidance](https://github.com/brandonhimpfen/awesome-uav-collision-avoidance-systems)
   
 ## Contribute
 
