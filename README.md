@@ -29,21 +29,19 @@ VTOL drones combine the benefits of multirotor and fixed-wing aircraft, offering
 
 - [VTOL UAV Basics – UAV Coach](https://uavcoach.com/vtol/) – A beginner’s guide to VTOL drone technology.
 - [Fixed-Wing VTOL vs. Traditional Drones](https://www.tealdrone.com/blog/vtol-vs-fixed-wing-drones) – Pros and cons of hybrid platforms.
-- [Understanding VTOL Configurations](https://www.auvsi.org/industry-news/exploring-configurations-vtol-aircraft) – Quadplane, tilt-rotor, tail-sitter, and more.
 
 ## VTOL Drone Platforms
 
 - [WingtraOne](https://wingtra.com/) – High-precision VTOL drone for surveying and mapping.
-- [Quantum Systems Trinity F90+](https://www.quantum-systems.com/trinity/) – Long-range VTOL mapping drone.
+- [Quantum Systems Trinity F90+](https://quantum-systems.com/trinity-pro/) – Long-range VTOL mapping drone.
 - [Vertical Technologies DeltaQuad](https://www.deltaquad.com/) – VTOL UAV for surveillance, mapping, and delivery.
 - [AeroVironment JUMP 20](https://www.avinc.com/uas/view/jump-20) – Military-grade VTOL ISR platform.
 - [eVTOL News – Aircraft Directory](https://evtol.news/aircraft/) – Extensive directory of electric VTOL aircraft.
 
 ## Open-Source Projects
 
-- [PX4 VTOL Support](https://docs.px4.io/main/en/flight_modes/transition.html) – PX4 Autopilot documentation for VTOL transitions.
-- [ArduPilot VTOL Docs](https://ardupilot.org/plane/docs/guide-vtol-quadplanes.html) – ArduPilot’s hybrid drone guide.
-- [OpenVToL](https://github.com/openvtol) – Community-driven VTOL drone development (experimental).
+- [PX4 VTOL Support](https://docs.px4.io/main/en/frames_vtol/) – PX4 Autopilot documentation for VTOL transitions.
+- [ArduPilot VTOL Docs](https://ardupilot.org/plane/docs/quadplane-flying.html) – ArduPilot’s hybrid drone guide.
 
 ## Flight Control Systems
 
@@ -60,7 +58,6 @@ VTOL drones combine the benefits of multirotor and fixed-wing aircraft, offering
 
 ## VTOL Research
 
-- [NASA VTOL Studies](https://nari.arc.nasa.gov/vtol) – Research on vertical flight and hybrid aircraft.
 - [Journal of Intelligent & Robotic Systems – VTOL Papers](https://link.springer.com/journal/10846) – Peer-reviewed research.
 - [IEEE Papers on VTOL UAVs](https://ieeexplore.ieee.org/Xplore/home.jsp) – Search for VTOL drone design, control, and autonomy.
 
@@ -85,7 +82,6 @@ VTOL drones combine the benefits of multirotor and fixed-wing aircraft, offering
 
 ## Related Awesome Lists
 
-- [Awesome Drones](https://github.com/brandonhimpfen/awesome-drones)
 - [Awesome UAV Flight Test Planning](https://github.com/brandonhimpfen/awesome-uav-flight-test-planning)
 - [Awesome Flight Log Analysis](https://github.com/brandonhimpfen/awesome-flight-log-analysis)
 - [Awesome Open-Source Drone Firmware](https://github.com/brandonhimpfen/awesome-open-source-drone-firmware)
